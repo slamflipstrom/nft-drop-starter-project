@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import "./App.css";
 import twitterLogo from "./assets/twitter-logo.svg";
-import CandyMachine from "./CandyMachine";
+import CandyMachine from "./CandyMachine/CandyMachine";
 
 // Constants
 const TWITTER_HANDLE = "_buildspace";
